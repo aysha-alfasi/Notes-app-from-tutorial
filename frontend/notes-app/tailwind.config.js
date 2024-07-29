@@ -11,6 +11,7 @@ export default {
         secondary: '#EF863E',
         pink: '#FF8AAE',
         pinkHover: '#FF7BA9',
+        lightPink: 'rgb(255, 211, 224)',
       },
     },
   },
