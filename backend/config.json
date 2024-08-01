@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
   "connectionString": "mongodb+srv://ayshaalfassi:I802SKmn3t9WBLsr@cluster0.dhbsslv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+=======
+    "connectionString": "mongodb+srv://ayshaalfassi:<passwordHere>@cluster0.dhbsslv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+>>>>>>> 5a8ca8748913a722e182e440e432e572a4775d80
 }
